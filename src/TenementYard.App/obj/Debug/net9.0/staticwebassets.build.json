@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "lWYMEN33mdMKcjBfDBt+X2S+e1jrr9XlOFD+ERoImpo=",
+  "Source": "TenementYard.App",
+  "BasePath": "_content/TenementYard.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TenementYard.App/wwwroot",
+      "Source": "TenementYard.App",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/brexh3dol0-8q9yr2ekfw.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "css/site#[.{fingerprint=8q9yr2ekfw}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/css/site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j8wp0ttc2c",
+      "Integrity": "jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/hbamb9d1xv-15bq4vsokc.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "js/site.js#[.{fingerprint=15bq4vsokc}]?.mjs.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.mjs",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "01rtsv4rfk",
+      "Integrity": "FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.mjs"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/msc3uaxyqi-tawnhs6xru.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "js/site.js.umd#[.{fingerprint=tawnhs6xru}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.umd.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i9b01k1nwd",
+      "Integrity": "Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.umd.js"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/q6z8wq0vvo-61n19gt1b8.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gjtj35e07v",
+      "Integrity": "tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yh0dbgaby9-1ajajwi4tt.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "TenementYard.App#[.{fingerprint=1ajajwi4tt}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b9yzg965w6",
+      "Integrity": "LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yw6bn6tjxk-1ajajwi4tt.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "TenementYard.App#[.{fingerprint=1ajajwi4tt}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b9yzg965w6",
+      "Integrity": "LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/z8cio91od1-e8n6nltupu.gz",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "lib/htmx.min#[.{fingerprint=e8n6nltupu}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/lib/htmx.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ywupn0ukgk",
+      "Integrity": "wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/lib/htmx.min.js"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "TenementYard.App#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "1ajajwi4tt",
+      "Integrity": "5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "TenementYard.App#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "1ajajwi4tt",
+      "Integrity": "5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/css/site.css",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8q9yr2ekfw",
+      "Integrity": "QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/favicon.ico",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.mjs",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "js/site.js#[.{fingerprint}]?.mjs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "15bq4vsokc",
+      "Integrity": "GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js.mjs"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.umd.js",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "js/site.js.umd#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tawnhs6xru",
+      "Integrity": "RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js.umd.js"
+    },
+    {
+      "Identity": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/lib/htmx.min.js",
+      "SourceId": "TenementYard.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/",
+      "BasePath": "_content/TenementYard.App",
+      "RelativePath": "lib/htmx.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e8n6nltupu",
+      "Integrity": "4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/htmx.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.8q9yr2ekfw.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/brexh3dol0-8q9yr2ekfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000510204082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1959"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8q9yr2ekfw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.8q9yr2ekfw.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8q9yr2ekfw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.8q9yr2ekfw.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/brexh3dol0-8q9yr2ekfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8q9yr2ekfw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/brexh3dol0-8q9yr2ekfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000510204082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1959"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHev20QGNtbim6n6QiFCFRL6+DcXrS7TJ1HPrRI5tYg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/brexh3dol0-8q9yr2ekfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 23:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSy3VGiw5JyTuX6ZxH18KCwSO8qpGlvPdeVm90eeUjc="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/q6z8wq0vvo-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/q6z8wq0vvo-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/q6z8wq0vvo-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/q6z8wq0vvo-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.15bq4vsokc.mjs",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/hbamb9d1xv-15bq4vsokc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000658761528"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15bq4vsokc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.mjs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.15bq4vsokc.mjs",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.mjs",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15bq4vsokc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.mjs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.15bq4vsokc.mjs.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/hbamb9d1xv-15bq4vsokc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15bq4vsokc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.mjs.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.mjs",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/hbamb9d1xv-15bq4vsokc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000658761528"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.mjs",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.mjs",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyV9RjCcVSaSlUBaCAZMX4/T2kd5k0+6ohVdmpCgZ7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.mjs.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/hbamb9d1xv-15bq4vsokc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKYIUuctQWl5qda48BrlKsZnScXeN23I75mtxqB9Bio="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/msc3uaxyqi-tawnhs6xru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000700280112"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.umd.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.js.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/msc3uaxyqi-tawnhs6xru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.tawnhs6xru.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/msc3uaxyqi-tawnhs6xru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000700280112"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tawnhs6xru"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.umd.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.tawnhs6xru.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/js/site.js.umd.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tawnhs6xru"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.umd.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUSCjgrvja97E7GSE+cd+c0RUCDUnelkI5EtdYFSmt0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.umd.tawnhs6xru.js.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/msc3uaxyqi-tawnhs6xru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 00:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tawnhs6xru"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.umd.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnp5u43gqkw8SOLosibA/m1kWodfQvlWkaukkdIjf9E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.e8n6nltupu.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/z8cio91od1-e8n6nltupu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060437568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8n6nltupu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/htmx.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.e8n6nltupu.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/lib/htmx.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8n6nltupu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/htmx.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.e8n6nltupu.js.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/z8cio91od1-e8n6nltupu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8n6nltupu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/htmx.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/z8cio91od1-e8n6nltupu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060437568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.js",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/wwwroot/lib/htmx.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gndpcgjVHnzFm3vx3UOHbzVpcGAi3eS/C5nM3aPtEc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/htmx.min.js.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/z8cio91od1-e8n6nltupu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wr/AHtlCzqoQxMjW9N1ohK2d/aYJthtb65V54vDCfSY="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.bundle.scp.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yw6bn6tjxk-1ajajwi4tt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001855287570"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.bundle.scp.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.bundle.scp.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yw6bn6tjxk-1ajajwi4tt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.styles.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yh0dbgaby9-1ajajwi4tt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001855287570"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.styles.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.1ajajwi4tt.styles.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yh0dbgaby9-1ajajwi4tt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ajajwi4tt"
+        },
+        {
+          "Name": "label",
+          "Value": "TenementYard.App.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.bundle.scp.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yw6bn6tjxk-1ajajwi4tt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001855287570"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.bundle.scp.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/projectbundle/TenementYard.App.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.bundle.scp.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yw6bn6tjxk-1ajajwi4tt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.styles.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yh0dbgaby9-1ajajwi4tt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001855287570"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.styles.css",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/scopedcss/bundle/TenementYard.App.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+zTszQw1l+iI2VeTAfalqlSU2EYqkqxwgSq1xR7tG0="
+        }
+      ]
+    },
+    {
+      "Route": "TenementYard.App.styles.css.gz",
+      "AssetFile": "/home/johanncf/projects/tenement-yard/src/TenementYard.App/obj/Debug/net9.0/compressed/yh0dbgaby9-1ajajwi4tt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 20:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwxtSGMxgUxORDJwdyZW/HA6s86ynk12Gv847JCTlUs="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en" id="html" class="dark">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Gestão</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="bg-zinc-300 dark:bg-zinc-900 text-zinc-950 dark:text-zinc-300">
+    <header 
+        class="flex justify-end py-2 px-4 
+        border-b border-zinc-400 dark:border-zinc-800 
+        bg-zinc-300 dark:bg-zinc-900"
+    >
+        <button class="cursor-pointer"
+            _="on click toggle .dark on #html 
+            then toggle .hidden on [#light, #dark]"  
+        >
+            <i id="light" data-lucide="sun"></i>
+            <i id="dark" data-lucide="moon" class="hidden"></i>
+        </button>
+    </header>
+    <main role="main" class="grid grid-cols-12"> 
+        <section 
+            class="col-span-3 flex flex-col content-between
+            h-full
+            border-r border-zinc-400 dark:border-zinc-800"
+        >
+            <div>
+                <div>My Yard</div>
+                <nav>
+                    <div><a>Condos</a></div>
+                    <div><a>Apartments</a></div>
+                    <div><a>People</a></div>
+                </nav>
+            </div>
+
+            <div>C | Settings | <bold><<</bold></div>
+        </section>
+        <section class="col-span-9">@RenderBody()</section>
+    </main>
+
+    <script src="https://unpkg.com/hyperscript.org@0.9.14"></script>
+    <script src="~/lib/htmx.min.js"></script>
+    <script src="~/js/site.js.mjs" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
