@@ -1,2 +1,18 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+	--color-light-main: var(--color-slate-50);
+	--color-dark-main: var(--color-slate-900);
+
+	--color-light-separator: var(--color-slate-300);
+	--color-dark-separator: var(--color-slate-500);
+
+	--color-light-sidebar: var(--color-slate-100);
+	--color-dark-sidebar: var(--color-slate-700);
+	--color-light-nav-item: var(--color-slate-200);
+	--color-dark-nav-item: var(--color-slate-500);
+
+	--color-light-thead: var(--color-slate-100);
+	--color-dark-thead: var(--color-slate-700);
+}

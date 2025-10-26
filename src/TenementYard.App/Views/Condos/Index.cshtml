@@ -1,0 +1,67 @@
+﻿@using TenementYard.App.Models.Condos
+@{
+    ViewData["Title"] = "Condos";
+    List<CondoViewModel> condos = [
+        new ()
+        {
+            Name = "Condo 1",
+            Address = new ()
+            {
+                City = "Rio de Janeiro",
+                Street = "Alvaro Cabral",
+                Number = "103",
+                ZipCode = "12123020"
+            },
+            Id = "1"
+        }
+    ];
+}
+
+<div class="p-6">
+    <h1>Condos</h1>
+    <div class="mt-6">
+        <table class="table-auto border-collapse w-full">
+            <thead>
+                <tr>
+                    <th class="border-y border-light-separator dark:border-dark-separator bg-light-thead dark:bg-dark-thead p-2 text-left uppercase font-medium">
+                        Id
+                    </th>
+                    <th class="border-y border-light-separator dark:border-dark-separator bg-light-thead dark:bg-dark-thead p-2 text-left uppercase font-medium">
+                        Nome
+                    </th>
+                    <th class="border-y border-light-separator dark:border-dark-separator bg-light-thead dark:bg-dark-thead p-2 text-left uppercase font-medium">
+                        Cidade
+                    </th>
+                    <th class="border-y border-light-separator dark:border-dark-separator bg-light-thead dark:bg-dark-thead p-2 text-left uppercase font-medium">
+                        Endereço
+                    </th>
+                    <th class="border-y border-light-separator dark:border-dark-separator bg-light-thead dark:bg-dark-thead p-2 text-left uppercase font-medium">
+                        CEP
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var condo in condos)
+                {
+                    <tr>
+                        <td class="border-y border-light-separator dark:border-dark-separator p-2">
+                            @condo.Id
+                        </td>
+                        <td class="border-y border-light-separator dark:border-dark-separator p-2">
+                            @condo.Name
+                        </td>
+                        <td class="border-y border-light-separator dark:border-dark-separator p-2">
+                            @condo.Address.City
+                        </td>
+                        <td class="border-y border-light-separator dark:border-dark-separator p-2">
+                            @($"{condo.Address.Street} {condo.Address.Number}")
+                        </td>
+                        <td class="border-y border-light-separator dark:border-dark-separator p-2">
+                            @condo.Address.ZipCode
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

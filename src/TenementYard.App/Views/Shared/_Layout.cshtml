@@ -1,5 +1,17 @@
-﻿<!DOCTYPE html>
-<html lang="en" id="html" class="dark">
+﻿@{
+    var pathArr = ViewContext.View.Path.Split("/").ToList();
+    var breadCrumbArr = pathArr
+        .Where((_, idx) => idx != 1 && idx != pathArr.Count - 1);
+    var breadCrumb = string.Join("/ ", breadCrumbArr);
+}
+
+@functions {
+    public bool IsActive(string href)=> 
+        ViewContext.View.Path.Contains(href, StringComparison.InvariantCultureIgnoreCase);
+}
+
+<!DOCTYPE html>
+<html lang="en" id="html" class="">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,13 +20,14 @@
 </head>
 <body 
     class="h-screen flex flex-col
-    bg-zinc-300 dark:bg-zinc-900 text-zinc-950 dark:text-zinc-300"
+    bg-light-main dark:bg-dark-main text-zinc-950 dark:text-zinc-300"
 >
     <header 
-        class="flex justify-end py-2 px-4 
-        border-b border-zinc-400 dark:border-zinc-800 
-        bg-zinc-300 dark:bg-zinc-900"
+        class="flex justify-between py-2 px-4 
+        border-b border-zinc-200 dark:border-zinc-800 
+        bg-light-main dark:bg-dark-main"
     >
+        <span class="text-sm text-zinc-400 dark:text-zinc-400">@breadCrumb</span>
         <button class="cursor-pointer"
             _="on click toggle .dark on #html 
             then toggle .hidden on [#light, #dark]"  
@@ -25,22 +38,30 @@
     </header>
     <main role="main" class="flex h-full"> 
         <section 
-            class="flex flex-col content-between
+            class="flex flex-col items-center
             w-2/12
-            bg-zinc-700
-            border-r border-zinc-400 dark:border-zinc-800"
+            bg-light-sidebar dark:bg-dark-sidebar
+            border-r border-zinc-300 dark:border-zinc-800"
         >
-            <div class="p-3">My Yard</div>
-            <div class="h-[1px] w-full bg-zinc-500"></div>
-            <div class="grow p-3">
-                <nav>
-                    <div class="py-1"><a>Condos</a></div>
-                    <div class="py-1"><a>Apartments</a></div>
-                    <div class="py-1"><a>People</a></div>
+            <div class="p-3 flex justify-start w-full">
+                <a href="/">My Yard</a>
+            </div>
+            <div class="h-[1px] w-11/12 mb-1 bg-light-separator dark:bg-dark-separator"></div>
+            <div class="grow flex w-full">
+                <nav class="flex flex-col w-full">
+                    <div class="py-1 p-3 w-full @(IsActive("condos") ? "bg-light-nav-item dark:bg-dark-nav-item" : "")">
+                        <a href="/condos">Condos</a>
+                    </div>
+                    <div class="py-1 p-3 w-full @(IsActive("apartments") ? "bg-light-nav-item dark:bg-dark-nav-item" : "")">
+                        <a href="/#">Apartments</a>
+                    </div>
+                    <div class="py-1 p-3 w-full @(IsActive("people") ? "bg-light-nav-item dark:bg-dark-nav-item" : "")">
+                        <a href="/#">People</a>
+                    </div>
                 </nav>
             </div>
-            <div class="h-[1px] w-full bg-zinc-500"></div>
-            <div class="flex justify-between p-3">
+            <div class="h-[1px] w-11/12 mb-1 bg-light-separator dark:bg-dark-separator"></div>
+            <div class="flex justify-between p-2 w-full">
                 <div>
                     <button class="cursor-pointer">
                         <div class="flex items-center gap-3">
